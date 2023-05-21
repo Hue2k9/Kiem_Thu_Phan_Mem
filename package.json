@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@babel/parser": "^7.21.8",
+    "@babel/traverse": "^7.21.5",
     "dotenv": "^16.0.3",
+    "espree": "^9.5.2",
+    "esprima": "^4.0.1",
     "exceljs": "^4.3.0"
   }
 }
